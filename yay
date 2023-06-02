@@ -1,4 +1,0 @@
-git clone https://aur.archlinux.org/yay-bin.git
-cd yay-bin
-makepkg -si 
-yay -S geekbench nomacs spotify spotify-adblock nsnake dupeguru sublime-text-4 ventoy gcfscape LosslessCut path-of-buil ding-community-git  android-sdk-platform-tools vtfedit balena-etcher openmw-git deemix-git pcsx2-git jdownloader2 megasync-bin
