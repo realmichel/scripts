@@ -1,0 +1,17 @@
+android-sdk-platform-tools
+balena-etcher
+deemix-git
+duckstation-git
+fastfetch
+gcfscape
+jdownloader2
+losslesscut-bin
+megasync-bin
+moc-pulse
+nomacs
+nsnake
+path-of-building-community-git
+pcsx2
+ventoy
+vtfedit
+yay-bin
